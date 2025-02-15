@@ -1,4 +1,4 @@
-# Bug_detection_mysql
+# Bug_Tracking_mysql
 Overview:
  This project is designed to track and manage the entire process of bug detection and resolution within a software development cycle. It utilizes a MySQL database to store and manage critical information related to bugs, from their discovery to their final resolution.
 The database structure captures key details about bugs, such as their unique identifier (bug ID), the name of the bug, status updates, assigned developers, and resolution details.
